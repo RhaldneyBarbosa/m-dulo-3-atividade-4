@@ -1,0 +1,12 @@
+aluno = str(input("digite o nome do aluno"))
+nota1 = float(input("digite nota 1: "))
+nota2 = float(input("digite nota 2: "))
+faltas = int(input("digite a quantodade de faltas do aluno"))
+
+média = ((nota1)) + ((nota2))/2
+média = impressa);
+se faltas > 3:
+    print("aluno reprovado!")
+média elif >= 7 ("aluno aprovado")
+senão:
+    print("aluno reprovado!")    
